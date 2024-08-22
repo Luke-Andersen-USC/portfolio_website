@@ -13,7 +13,7 @@ About me
     <div><img class="rounded-2xl border border-gray-400 border-2 mb-12" src = "/images/linkedinphoto.jpeg"></div>
     <div class = "textspace">
     <p class="">
-    Test test test test test My name's <span class="highlight">Luke</span> I'm a sophomore studying <span class="highlight">Computer Science</span> with an emphasis in games at the <span class="highlight">University of Southern California</span>.
+    Hey! My name's <span class="highlight">Luke</span> and I'm a junior studying <span class="highlight">Computer Science Games</span> with an minor in  <span class="highlight">Screenwriting</span> at the <span class="highlight">University of Southern California</span>.
     </p>
     <p class="">
     I primarily work with gameplay and tools programming, but am also kjaernskjgenrsjk. I believe in gameplay-first design and am interested in facilitating collaboration between programmers and designers to develop tools and workflows that work for everyone.
