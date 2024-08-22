@@ -13,20 +13,21 @@ About me
     <div><img class="rounded-2xl border border-gray-400 border-2 mb-12" src = "/images/linkedinphoto.jpeg"></div>
     <div class = "textspace">
     <p class="">
-    Test test test test test My name's <span class="highlight">Luke</span> I'm a sophomore studying <span class="highlight">Computer Science</span> with an emphasis in games at the <span class="highlight">University of Southern California</span>.
+    Hey! My name's <span class="highlight">Luke</span> and I'm a junior studying <span class="highlight">Computer Science Games</span> with an minor in  <span class="highlight">Screenwriting</span> at the <span class="highlight">University of Southern California</span>.
     </p>
     <p class="">
+    I specialize in Gameplay Programming, but am also passionate about Game Design and Narrative Design. 
     I primarily work with gameplay and tools programming, but am also kjaernskjgenrsjk. I believe in gameplay-first design and am interested in facilitating collaboration between programmers and designers to develop tools and workflows that work for everyone.
     </p>
     <p class="">
-    Now I am a co-founder and programming lead at <a href = "https://rat-economy.com/" class = "highlight underline hover:text-red-800">Rat Economy</a>, a 19 person game studio at USC. We are currently working on our first game: <a href = "/projects/iron-testament" class = "highlight underline">Iron Testament</a> for a Spring 2024 release.
+    I have experience working on USC Advanced Game Projects, as well as working as a gameplay programmer for <a href = "https://rat-economy.com/" class = "highlight underline hover:text-red-800">Rat Economy</a>, a student-formed indie studio at USC, and a programming / design internship at "https://omnimegasupercorp.com/" class = "highlight underline hover:text-red-800">OmniMegaSuperCorp</a>.
     </p>
     </div>
 </div>
 
 <div class = "">
     <h1 class = "title"> Contact Me </h1>
-    <p class = "text-lg"> I'm always looking for new challenges. If you think I could help with your project, or just want to chat, reach me at <a href = "mailto:hey@roosevelt.games" class = "highlight underline hover:text-red-800"> hey@roosevelt.games </a></p>
+    <p class = "text-lg"> I'm always looking for new challenges. If you think I could help with your project, or just want to chat, reach me at <a href = "mailto:luke.william.andersen@gmail.com" class = "highlight underline hover:text-red-800"> luke.william.andersen@gmail.com </a></p>
 </div>
 
 <div class = "mt-12 bg-slate-50 rounded-2xl border border-gray-400 border-2 md:pb-8 ">
