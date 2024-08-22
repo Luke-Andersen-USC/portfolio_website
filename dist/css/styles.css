@@ -468,10 +468,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-backdrop-sepia:  ;
 }
 
-.row-start-2 {
-  grid-row-start: 2;
-}
-
 .float-none {
   float: none;
 }
@@ -528,10 +524,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-bottom: 2.5rem;
 }
 
-.mt-4 {
-  margin-top: 1rem;
-}
-
 .mb-4 {
   margin-bottom: 1rem;
 }
@@ -542,6 +534,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .mt-0 {
   margin-top: 0px;
+}
+
+.mt-4 {
+  margin-top: 1rem;
 }
 
 .mb-0 {
@@ -926,10 +922,6 @@ div.textspace-no-margin li {
 }
 
 @media (min-width: 768px) {
-  .md\:row-start-1 {
-    grid-row-start: 1;
-  }
-
   .md\:float-right {
     float: right;
   }
