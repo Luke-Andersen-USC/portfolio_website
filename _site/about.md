@@ -20,7 +20,7 @@ About me
     I primarily work with gameplay and tools programming, but am also kjaernskjgenrsjk. I believe in gameplay-first design and am interested in facilitating collaboration between programmers and designers to develop tools and workflows that work for everyone.
     </p>
     <p class="">
-    I have experience working on USC Advanced Game Projects, as well as working as a gameplay programmer for <a href = "https://rat-economy.com/" class = "highlight underline hover:text-red-800">Rat Economy</a>, a student-formed indie studio at USC, and a programming / design internship at "https://omnimegasupercorp.com/" class = "highlight underline hover:text-red-800">OmniMegaSuperCorp</a>.
+    I have experience working on USC Advanced Game Projects, as well as working as a gameplay programmer for <a href = "https://rat-economy.com/" class = "highlight underline hover:text-red-800">Rat Economy</a>, a student-formed indie studio at USC, and a programming / design internship at <a hef = "https://omnimegasupercorp.com/" class = "highlight underline hover:text-red-800">OmniMegaSuperCorp</a>.
     </p>
     </div>
 </div>
