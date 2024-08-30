@@ -35,7 +35,7 @@ About me
         <div class = ""><img class="h-24 mx-auto" src = "/images/unity-icon.png"> <p class="text-sm text-center mt-2"> Unity Game Engine </p> </div>
         <div class = ""><img class="h-24 mx-auto" src = "/images/c-sharp-icon.png"> <p class="text-sm text-center mt-2"> C# Scripting</p> </div>
         <div class = ""><img class="h-24 mx-auto" src = "/images/c++-icon.png"> <p class="text-sm text-center mt-2"> C++ Development</p> </div>
-        <div class = "block md:hidden"><img class="h-24 mx-auto" src = "/images/11ty-icon.svg"> <p class="text-sm text-center mt-2"> Web Development</p> </div>
+        <div class = "block md:hidden"><img class="h-24 mx-auto" src = "/images/ue5.png"> <p class="text-sm text-center mt-2"> Unreal Engine 5</p> </div>
         <div class = "block md:hidden"><img class="h-24 mx-auto" src = "/images/github-icon.svg"> <p class="text-sm text-center mt-2"> Github</p> </div>
     </div>
     <div class = "hidden mt-8 flex md:grid grid-flow-col justify-evenly">
