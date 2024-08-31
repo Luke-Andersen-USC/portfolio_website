@@ -12,9 +12,9 @@ order: 1
   </h1>
   <div class="text-xl md:text-2xl">
     <p class="mb-8">
-      I am a Programmer, Game Designer, and Narrative Designer with a passion for narrative through gameplay mechanics. Though I specialize as a gameplay programmer, I have a generalist knowledge of game development and have experience working on projects with large codebases and teams. 
+      I'm Luke Andersen, a <span class="highlight">Programmer</span>, <span class="highlight">Game Designer</span>, and <span class="highlight">Narrative Designer</span> with a passion for creating narrative through gameplay mechanics. Though I specialize as a gameplay programmer, I have a generalist knowledge of game development and have experience working on projects with large codebases and collaborating with other disciplines. 
     </p>
-    <a href="mailto:luke.william.andersen@gmail.com" class="highlight underline">Like what you see? Let's connect!</a>
+    Want to get in touch? Reach me at <a href = "mailto:luke.william.andersen@gmail.com" class = "highlight underline hover:text-red-800"> luke.william.andersen@gmail.com </a>!
   </div>
 
   <h1 class="title text-center sm:text-left">Featured Project</h1>
