@@ -26,7 +26,7 @@ About me
 
 <div class = "">
     <h1 class = "title"> Contact Me </h1>
-    <a href="mailto:luke.william.andersen@gmail.com" class="highlight underline">Like what you see? Let's connect!</a>
+    Like what you see? <a href="mailto:luke.william.andersen@gmail.com" class="highlight underline">Email me</a> or call (+1)650-665-3447!
 </div>
 
 <div class = "mt-12 bg-slate-50 rounded-2xl border border-gray-400 border-2 md:pb-8 ">
