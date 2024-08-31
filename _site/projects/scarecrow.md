@@ -4,7 +4,7 @@ tags: projects
 title: Scarecrow
 image: donuts.png
 summary: Scarecrow is an upcoming third-person stealth game in which play as a scarecrow and protect your bird feeder from greedy squirrels!
-role: Game Designer
+role: AI Engineer
 link:
 link-text:
 timeframe: June 2024 - Present
