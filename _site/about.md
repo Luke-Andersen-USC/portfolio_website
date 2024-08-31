@@ -34,10 +34,10 @@ About me
     <div class="flex grid grid-cols-2 md:grid-cols-3 gap-8 justify-evenly mb-8 md:mb-0">
     <div class=""><img class="h-24 mx-auto" src="/images/unity-icon.png"> <p class="text-sm text-center mt-2"> Unity Game Engine </p> </div>
     <div class=""><img class="h-24 mx-auto" src="/images/c-sharp-icon.png"> <p class="text-sm text-center mt-2"> C# Scripting</p> </div>
-    <div class=""><img class="h-24 mx-auto" src="/images/c++-icon.png"> <p class="text-sm text-center mt-2"> C++ Development</p> </div>
-    <div class=""><img class="h-24 mx-auto" src="/images/ue5.png"> <p class="text-sm text-center mt-2"> Unreal Engine 5</p> </div>
     <div class=""><img class="h-24 mx-auto" src="/images/github-icon.svg"> <p class="text-sm text-center mt-2"> Github</p> </div>
-        <div class=""><img class="h-24 mx-auto" src="/images/github-icon.svg"> <p class="text-sm text-center mt-2"> Perforce</p> </div>
+    <div class=""><img class="h-24 mx-auto" src="/images/ue5.png"> <p class="text-sm text-center mt-2"> Unreal Engine 5</p> </div>
+    <div class=""><img class="h-24 mx-auto" src="/images/c++-icon.png"> <p class="text-sm text-center mt-2"> C++ Development</p> </div>
+    <div class=""><img class="h-24 mx-auto" src="/images/p4v_icon.svg"> <p class="text-sm text-center mt-2"> Perforce</p> </div>
 </div>
 </div>
 </div>
