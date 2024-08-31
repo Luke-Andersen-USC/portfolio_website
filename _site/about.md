@@ -37,7 +37,7 @@ About me
     <div class=""><img class="h-24 mx-auto" src="/images/github-icon.svg"> <p class="text-sm text-center mt-2"> Github</p> </div>
     <div class=""><img class="h-24 mx-auto" src="/images/ue5.png"> <p class="text-sm text-center mt-2"> Unreal Engine 5</p> </div>
     <div class=""><img class="h-24 mx-auto" src="/images/c++-icon.png"> <p class="text-sm text-center mt-2"> C++ Development</p> </div>
-    <div class=""><img class="h-24 mx-auto" src="/images/p4v_icon.svg"> <p class="text-sm text-center mt-2"> Perforce</p> </div>
+    <div class=""><img class="h-24 mx-auto" src="/images/p4v_icon.png"> <p class="text-sm text-center mt-2"> p4v</p> </div>
 </div>
 </div>
 </div>
