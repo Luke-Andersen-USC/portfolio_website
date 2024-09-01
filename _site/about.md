@@ -10,7 +10,7 @@ order: 2
 About me
 </h1>
 <div class="md:flex gap-6">
-    <div><img class="rounded-2xl border border-gray-400 border-2 mb-12" src = "/images/linkedinphoto.jpeg"></div>
+    <div><img class="rounded-2xl border border-gray-400 border-2 mb-12" src = "/images/lukeProfile1.jpeg"></div>
     <div class = "textspace">
     <p class="">
     Hey! My name's <span class="highlight">Luke</span> and I'm a junior studying <span class="highlight">Computer Science Games</span> with a minor in  <span class="highlight">Screenwriting</span> at the <span class="highlight">University of Southern California</span>.
