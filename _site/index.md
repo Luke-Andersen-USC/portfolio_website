@@ -6,7 +6,7 @@ modified: 2022-01-09 00:00:00
 order: 1
 ---
 <div class="">
-  <div class=""><img class="rounded-2xl border border-gray-400 border-2 mb-12" src="/images/lukeProfile2.jpg"></div>
+  <div class=""><img class="rounded-2xl border border-gray-400 border-2 mb-12" src="/images/LukeProfile2.jpg"></div>
   <h1 class="title mb-12 text-center sm:text-left">
     Welcome to my site!
   </h1>
