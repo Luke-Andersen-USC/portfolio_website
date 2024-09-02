@@ -10,17 +10,19 @@ order: 2
 About me
 </h1>
 <div class="md:flex gap-6">
-    <div><img class="rounded-2xl border border-gray-400 border-2 mb-12" src = "/images/LukeProfile1.png"></div>
+    <div>
+            <img class="rounded-2xl border border-gray-400 border-2 mb-12 smaller-image" src="/images/LukeProfile1.png">
+    </div>
     <div class = "textspace">
-    <p class="">
-    Hey! My name's <span class="highlight">Luke</span> and I'm a junior studying <span class="highlight">Computer Science Games</span> with a minor in  <span class="highlight">Screenwriting</span> at the <span class="highlight">University of Southern California</span>.
-    </p>
-    <p class="">
-    I specialize in <span class="highlight">Gameplay Programming</span>, and am also passionate about <span class="highlight">Game Design</span> and <span class="highlight">Narrative Design</span>. I have experience collaborating with other disciplines in game projects with large teams and have written industry-level code with proper documentation and code commenting that follows given style guides.
-    </p>
-    <p class="">
-    I have experience working on USC Advanced Game Projects, as well as working as a gameplay programmer for <a href = "https://rat-economy.com/" class = "highlight underline hover:text-red-800">Rat Economy</a> (a student-formed game studio at USC) and a programming/design internship at <a href = "https://omnimegasupercorp.com/" class = "highlight underline hover:text-red-800">OmniMegaSuperCorp</a>.
-    </p>
+        <p class="">
+        Hey! My name's <span class="highlight">Luke</span> and I'm a junior studying <span class="highlight">Computer Science Games</span> with a     minor in  <span class="highlight">Screenwriting</span> at the <span class="highlight">University of Southern California</span>.
+        </p>
+        <p class="">
+        I specialize in <span class="highlight">Gameplay Programming</span>, and am also passionate about <span class="highlight">Game Design</span> and <span class="highlight">Narrative Design</span>. I have experience collaborating with other disciplines in game projects with large teams and have written industry-level code with proper documentation and code commenting that follows given style guides.
+        </p>
+        <p class="">
+        I have experience working on USC Advanced Game Projects, as well as working as a gameplay programmer for <a href = "https://rat-economy.com/" class = "highlight underline hover:text-red-800">Rat Economy</a> (a student-formed game studio at USC) and a programming/design internship at <a href = "https://omnimegasupercorp.com/" class = "highlight underline hover:text-red-800">OmniMegaSuperCorp</a>.
+        </p>
     </div>
 </div>
 
