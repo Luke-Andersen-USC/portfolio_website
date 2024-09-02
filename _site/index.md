@@ -16,10 +16,10 @@ order: 1
     <p class="mb-8">
       I'm Luke Andersen, a <span class="highlight">Programmer</span>, <span class="highlight">Game Designer</span>, and <span class="highlight">Narrative Designer</span> with a passion for games that tell their stories through gameplay mechanics.
     </p>
-    <p>
+    <p class="mb-8">
       Though I specialize as a gameplay programmer, I have a generalist knowledge of game development and have experience working on projects with large codebases and collaborating across different disciplines.
     </p>
-    <p>
+    <p class="mb-8">
       Want to get in touch? Reach me at <a href="mailto:luke.william.andersen@gmail.com" class="highlight underline hover:text-red-800">luke.william.andersen@gmail.com</a>!
     </p>
   </div>
