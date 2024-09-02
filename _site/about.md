@@ -13,7 +13,7 @@ order: 2
     </div>
     <div class="textspace">
       <p class="">
-        Hey! My name's <span class="highlight">Luke Andersen</span> and I'm a junior studying <span class="highlight">Computer Science Games</span> with a minor in <span class="highlight">Screenwriting</span> at the <span class="highlight">University of Southern California</span> ( <span style="color: red;">Fight</span> <span style="color: #FFD700;">On!</span>).
+        Hey! My name's <span class="highlight">Luke Andersen</span> and I'm a junior studying <span class="highlight">Computer Science Games</span> with a minor in <span class="highlight">Screenwriting</span> at the <span style="color: red;">University of Southern California</span> <span style="color: #FFD700;">(Fight On!)</span>.
       </p>
       <p class="">
         I specialize in <span class="highlight">Gameplay Programming</span>, and am also passionate about <span class="highlight">Game Design</span> and <span class="highlight">Narrative Design</span>. I have experience collaborating with other disciplines in large-scale game projects, and have written industry-level code with proper documentation and code commenting that follows given style guides.
