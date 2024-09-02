@@ -22,13 +22,13 @@ date: 2024-01-02
 
 
 <div class = "textspace mt-8">
-<p class = "">Boo's There? is a puzzle adventure game set during Halloween in which you use your toolkit of monster-hunting detective tools to find out if those at your doorstep are mischievous children or sinister monsters!</p>
+<p class = ""><strong>Boo's there?</strong> is a puzzle adventure game set during Halloween in which you use your toolkit of monster-hunting detective tools to find out if those at your doorstep are mischievous children or sinister monsters!</p>
 </div>
 
 <div class = "textspace-no-margin my-8">
 <p>As an <span class = "highlight">Gameplay Programmer</span> I was responsible for:</p>
 <ul class = "list-disc ml-4">
-    <li>Working with the Game Desing team to create monster-hunting detective tools</li>
-    <li>Placing animation triggers and sound triggers based on input from the Game Design Team, Sound Design Team, and Producers</li>
+    <li>Working with the Game Design team to create monster-hunting detective tools</li>
+    <li>Creating animation triggers and sound triggers based on input from the Game Design Team, Sound Design Team, and Producers</li>
 </ul>
 </div>
