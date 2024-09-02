@@ -26,7 +26,7 @@ date: 2024-01-02
 </div>
 
 <div class = "textspace-no-margin my-8">
-<p>As an <span class = "highlight">Gameplay Programmer</span> I was responsible for:</p>
+<p>As a <span class = "highlight">Gameplay Programmer</span> I was responsible for:</p>
 <ul class = "list-disc ml-4">
     <li>Working with the Game Design team to create monster-hunting detective tools</li>
     <li>Creating animation triggers and sound triggers based on input from the Game Design Team, Sound Design Team, and Producers</li>
