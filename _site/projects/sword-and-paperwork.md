@@ -8,7 +8,7 @@ role: Gameplay Programmer, Technical Game Designer
 link:
 link-text:
 timeframe: April 2024 - August 2024
-date: 2024-01-02
+date: 2024-01-03
 ---
 <div class="textspace mt-8" style="font-size: smaller;">
     <p><strong>Project Team:</strong> <a href="https://omnimegasupercorp.com/" class="highlight underline hover:text-purple-800">OmniMegaSuperCorp</a></p>
