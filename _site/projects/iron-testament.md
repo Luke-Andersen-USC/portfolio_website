@@ -4,44 +4,42 @@ tags: projects
 title: Iron Testament
 image: iron-testament.png
 imagelabel: Character concept by Eric Jimenez
-summary: An upcoming turn-based-strategy game that takes place in a post-apocolyptic future. As the last surviving human on Earth, lead your robot followers and take back Earth for the Children of Flesh.
-role: Lead Programmer
+summary: An upcoming turn-based tactics game where you play as the last surviving member of the human race and lead a group of robot zealots in a crusade to avenge humanity. 
+role: Gameplay Programmer, Narrative Designer, Story
 link:
 link-text:
 timeframe: April 2024 - Present
 featured: y
 date: 2024-01-01
 ---
+<div class="textspace mt-8" style="font-size: smaller;">
+    <p><strong>Project Team:</strong> <a href="https://rat-economy.itch.io/" class="highlight underline hover:text-purple-800">Rat Economy</a></p>
+    <p><strong>Genre:</strong> Turn-Based Tactics Game</p>
+    <p><strong>Engine:</strong> Unity</p>
+    <p><strong>Version Control:</strong> Github</p>
+    <p><strong>Coding Language:</strong> C#</p>
+    <p><strong>Special Skills:</strong> Wwise</p>
+</div>
+
+
 <div class = "textspace mt-8">
-<p class = ""> Iron Testament is an upcoming turn-based strategy game that takes place in a post-apocolyptic future. You play as the last human left on Earth after a robot uprising, and leading a fringe sect of life-worshiping robots, you must take back the planet for the Children of Flesh. </p>
-<p> Of all my projects, Iron Testament is the one I am most proud of. Not only for how wonderful the game is shaping up to be, but because I played a large role in it coming to fruition. It is the first major project to be made by Rat Economy, a 19-person game studio that I co-founded with friends from the University of Southern California. Alongside my Programming Lead duties, I have helped organize this team and assisted in creating a truly unique, innovative, and community-first approach to game design. I am very proud of what we have made and cannot wait for the world to see it.</p>
+<p class = ""><strong>Iron Testament</strong> is an upcoming turn-based tactics game where you play as the last surviving member of the human race and lead a group of robot zealots in a crusade to avenge humanity. </p>
+<p>However, revenge may not be the only path, as there are rumors of an ancient facility called Eden that may hold the secret to restoring humanity...</p>
 </div>
 
 <div class = "textspace-no-margin my-8">
-<p>As a <span class = "highlight">Programming Lead</span> I am responsible for:</p>
-<ul class = "list-disc ml-4">
-    <li>Creating tasks for our 7-person programming team's bi-weekly sprints.</li>
-    <li>Assisting programming team members with their tasks and outlining core programming frameworks.</li>
-    <li>Managing project's Github repository, performing code review, and tracking issues.</li>
-    <li>Organizing bi-weekly programming meetings for everyone to present their work and ask questions.</li>
-</ul>
+    <p>As a <span class = "highlight">Gameplay Programmer</span> I am responsible for:</p>
+    <ul class = "list-disc ml-4">
+        <li>Implementing ally/enemy character classes with special abilities and passives</li>
+        <li>Creating a saving/loading system that allows new character recruits with various abilities to persist between play sessions and stores player saves by date/time</li>
+        <li>Restructing our Ability scriptable objects and adding a AbilityEffects component for visual/audio feedback of special abilities</li>
+        <li>Using Wwise to trigger our sound effects at various gameplay moments (ex. special ability usage)</li>
 </div>
 
-<div class = "textspace-no-margin mb-8">
-<p>As a <span class = "highlight">Tools Programmer</span> I am responsible for:</p>
-<ul class = "list-disc ml-4">
-    <li>Creating the <a href = "/blog/iron-testament-board" class = "underline">framework for the grid system</a> and the various different tile types.</li>
-    <li>Building level-designer friendly tools to allow for rapid prototyping.</li>
-    <li>Creating an asynchronous additive loading system that allows for information to be transmitted between levels.</li>
-</ul>
+<div class = "textspace-no-margin my-8">
+    <p>As a <span class = "highlight">Narrative Designer</span> I am responsible for:</p>
+    <ul class = "list-disc ml-4">
+        <li>Creating the character bios and outlining the general plotline</li>
+        <li>Writing a series of journal entries from different perspectives that flesh out the world and the factions in it</li>
+    </ul>
 </div>
-
-<div class = "textspace-no-margin mb-8">
-<p>As a <span class = "highlight">Gameplay Programmer</span> I am responsible for:</p>
-<ul class = "list-disc ml-4">
-    <li>Creating the system to track mission objectives.</li>
-    <li>Implementing the game mechanics of different tile types.</li>
-    <li>Linking the gamemanager with the tile, player, and enemy data when in a level.</li>
-</ul>
-</div>
-
