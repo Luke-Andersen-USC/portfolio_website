@@ -8,7 +8,7 @@ role: Narrative Designer
 link:
 link-text:
 timeframe: September 2023 - April 2024
-date: 2024-01-02
+date: 2024-01-05
 ---
 <div class="textspace mt-8" style="font-size: smaller;">
     <p><strong>Project Team:</strong> USC Thesis Game</p>
