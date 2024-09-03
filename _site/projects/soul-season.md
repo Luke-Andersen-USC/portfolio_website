@@ -1,26 +1,64 @@
 ---
-layout: project
 tags: projects
-title: Scarecrow
+title: Soul Season
 image: donuts.png
-summary: Scarecrow is an upcoming third-person stealth game in which play as a scarecrow and protect your bird feeder from greedy squirrels!
-role: AI Engineer
+summary: Soul Season is a cooking/management game in which you play as the Grim Reaper, having broken out of your dead-end job ferrying souls to the underworld with a plan to start a new restaurant for monsters.
+role: Co-director, Gameplay Programmer, Technical Game Designer, Narrative Designer
 link:
 link-text:
-timeframe: June 2024 - Present
+timeframe: January 2024 - April 2024
 date: 2024-01-02
 ---
+<div class="textspace mt-8" style="font-size: smaller;">
+    <p><strong>Project Team:</strong> USC Intermediate Game Project</p>
+    <p><strong>Genre:</strong> Cooking/Management Game</p>
+    <p><strong>Engine:</strong> Unity</p>
+    <p><strong>Version Control:</strong> Perforce</p>
+    <p><strong>Coding Language:</strong> C#</p>
+    <p><strong>Special Skills:</strong> Yarnspinner</p>
+    <p><strong>Release Platform:</strong> <a href="https://lukeandersen.itch.io/soul-season" class="highlight underline hover:text-purple-800">itch.io</a></p>
+</div>
+
+
 <div class = "textspace mt-8">
-<p class = "">Scarecrow is a USC Advanced Games Project in which you play as a scarecrow and protect your bird feeder from greedy squirrels! Scarecrow seeks to capture the mischievous stealth of Untitled Goose Game, with the player using their flight-centric movement and various traps to ambush invading squirrels and give them the fright of their lives!</p>
+<p class = ""><strong>Soul Season</strong> is a Cooking/Management Game where you play as the Grim Reaper, having broken out of your dead-end job ferrying souls to the underworld with a plan to start a new restaurant for monsters.</p>
+<p>However, trouble rumbles from down below, as Satan wants you back working for the man…</p>
+<p></p>Will your restaurant survive the week, or is it doomed to go six feet under?</p>
 </div>
 
 <div class = "textspace-no-margin my-8">
-<p>As an <span class = "highlight">AI Engineer</span> I am responsible for:</p>
+<p>As a <span class = "highlight">Co-director</span> I was responsible for:</p>
 <ul class = "list-disc ml-4">
-    <li>Working with our AI Designer to implement squirrel's various behaviors (idle/invading/alarmed/scared/etc...) using <a href = "https://shorturl.at/JAcK4" class = "highlight underline hover:text-red-800">Behavior Designer</a> to implement our enemy AI behavior trees</li>
-    <li>Working with other engineers to ensure the smooth AI integration with the rest of the game  (ex. Squirrel perception of the player through sight/hearing)</li>
-    <li>Investigating and fixing bugs in the game (version control errors, game crashes, etc...) </li>
+    <li>Filling in a weekly breakdown chart and assigning tasks to team members</li>
+    <li>Working with our Berklee Audio Team / Game Artist to maintain deliverable deadlines</li>
+    <li>Ensuring our game's vision was kept persistent after our Vertical Slice milestone</li>
 </ul>
 </div>
 
-<iframe frameborder="0" src="https://itch.io/embed/2572842?border_width=0&amp;bg_color=371c18&amp;fg_color=82d6ab&amp;link_color=82d6ab" width="550" height="165" class = "rounded-2xl border border-gray-400 border-2"><a href="https://rat-economy.itch.io/ratpack">RatPack by Rat Economy</a></iframe>
+<div class = "textspace-no-margin my-8">
+<p>As a <span class = "highlight">Gameplay Programmer</span> I was responsible for:</p>
+<ul class = "list-disc ml-4">
+    <li>Creating a Grill Manager that handled meat objects when switching scenes between levels</li>
+    <li>Creating an Order Manager that generated food orders with semi-randomized toppings/wait times to add replay value to levels</li>
+    <li>Creating an interactable apartment, cooking stall, and ghost-hunting scene</li>
+</ul>
+</div>
+
+
+<div class = "textspace-no-margin my-8">
+<p>As a <span class = "highlight">Technical Game Designer</span> I was responsible for:</p>
+<ul class = "list-disc ml-4">
+    <li>Inspiring a balance of stress/panic in levels and serenity/reflection in the apartment hub screen</li>
+    <li>Using playtests and feedback forms to adjust the difficulty of five game levels</li>
+</ul>
+</div>
+
+<div class = "textspace-no-margin my-8">
+<p>As a <span class = "highlight">Narrative Designer</span> I was responsible for:</p>
+<ul class = "list-disc ml-4">
+    <li>Creating memorable characters and an engaging story within the confines of six telephone calls in the apartment hub screen</li>
+    <li>Advising our game artist on character and background art</li>
+</ul>
+</div>
+
+<iframe frameborder="0" src="https://itch.io/embed/2572842?border_width=0&amp;bg_color=371c18&amp;fg_color=82d6ab&amp;link_color=82d6ab" width="550" height="165" class = "rounded-2xl border border-gray-400 border-2"><a href="https://lukeandersen.itch.io/soul-season">Soul Season</a></iframe>
