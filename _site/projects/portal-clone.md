@@ -2,7 +2,7 @@
 layout: project
 tags: projects
 title: Portal Clone
-image: donuts.png
+image: portalLabScreen.png
 summary: A clone of Portal created as the final project of ITP-380, USC's Game Programming Class.
 role: Gameplay Programmer
 link:
