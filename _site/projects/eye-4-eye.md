@@ -8,7 +8,7 @@ role: Narrative Designer
 link:
 link-text:
 timeframe: September 2022 - April 2023
-date: 2024-01-02
+date: 2024-01-010
 ---
 <div class="textspace mt-8" style="font-size: smaller;">
     <p><strong>Project Team:</strong> USC Advanced Games Project</p>
