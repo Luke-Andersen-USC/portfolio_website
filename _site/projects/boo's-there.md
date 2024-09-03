@@ -2,7 +2,7 @@
 layout: project
 tags: projects
 title: Boo's There?
-image: donuts.png
+image: Boos-ThereScreen.png
 summary: Boo's There? is a puzzle adventure game in which you use your toolkit of monster-hunting detective tools on Halloween to find out if those at your doorstep are mischievous children or sinister monsters!
 role: Gameplay Programmer
 link:
