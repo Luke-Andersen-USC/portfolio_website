@@ -15,7 +15,7 @@ date: 2024-01-02
     <p><strong>Genre:</strong> Puzzle Adventure</p>
     <p><strong>Engine:</strong> Unity</p>
     <p><strong>Version Control:</strong> Github</p>
-    <p><strong>Coding Language:</strong> C++</p>
+    <p><strong>Coding Language:</strong> C#</p>
     <p><strong>Special Skills:</strong> Yarnspinner</p>
     <p><strong>Release Platform:</strong> <a href="https://store.steampowered.com/app/2686930/Boos_There/" class="highlight underline hover:text-purple-800">Steam</a></p>
 </div>
