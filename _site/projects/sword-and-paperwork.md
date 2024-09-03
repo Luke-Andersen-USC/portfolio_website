@@ -1,24 +1,41 @@
 ---
 layout: project
 tags: projects
-title: Scarecrow
+title: Sword and Paperwork
 image: donuts.png
-summary: Scarecrow is an upcoming third-person stealth game in which play as a scarecrow and protect your bird feeder from greedy squirrels!
-role: AI Engineer
+summary: Sword and Paperwork is a Turn-Based Tactics Game where you journey with a crew of misfits to stop an army of other-worldly parasitic warriors from taking over your dimension!
+role: Gameplay Programmer, Technical Game Designer
 link:
 link-text:
-timeframe: June 2024 - Present
+timeframe: April 2024 - August 2024
 date: 2024-01-02
 ---
+<div class="textspace mt-8" style="font-size: smaller;">
+    <p><strong>Project Team:</strong> <a href="https://omnimegasupercorp.com/" class="highlight underline hover:text-purple-800">OmniMegaSuperCorp</a></p>
+    <p><strong>Genre:</strong> Turn-Based Tactics Game</p>
+    <p><strong>Engine:</strong> Unity</p>
+    <p><strong>Version Control:</strong> Github</p>
+    <p><strong>Coding Language:</strong> C#</p>
+    <p><strong>Special Skills:</strong> Yarnspinner</p>
+</div>
+
+
 <div class = "textspace mt-8">
-<p class = "">Scarecrow is a USC Advanced Games Project in which you play as a scarecrow and protect your bird feeder from greedy squirrels! Scarecrow seeks to capture the mischievous stealth of Untitled Goose Game, with the player using their flight-centric movement and various traps to ambush invading squirrels and give them the fright of their lives!</p>
+<p class = ""><strong>Sword and Paperwork</strong> is a Turn-Based Tactics Game where you journey with a crew of misfits to stop an army of other-worldly parasitic warriors from taking over your dimension!</p>
 </div>
 
 <div class = "textspace-no-margin my-8">
-<p>As an <span class = "highlight">AI Engineer</span> I am responsible for:</p>
+<p>As a <span class = "highlight">Gameplay Programmer</span> I was responsible for:</p>
 <ul class = "list-disc ml-4">
-    <li>Working with our AI Designer to implement squirrel's various behaviors (idle/invading/alarmed/scared/etc...) using <a href = "https://shorturl.at/JAcK4" class = "highlight underline hover:text-red-800">Behavior Designer</a> to implement our enemy AI behavior trees</li>
-    <li>Working with other engineers to ensure the smooth AI integration with the rest of the game  (ex. Squirrel perception of the player through sight/hearing)</li>
-    <li>Investigating and fixing bugs in the game (version control errors, game crashes, etc...) </li>
+    <li>Working on a level editor tool for designers to change the playable areas and trigger regions of a map</li>
+    <li>Creating battle levels based on design specifications with custom level logic and scripted intro/outro segments</li>
+</ul>
+</div>
+
+<div class = "textspace-no-margin my-8">
+<p>As a <span class = "highlight">Technical Game Designer</span> I was responsible for:</p>
+<ul class = "list-disc ml-4">
+    <li>Designing and playtesting a minigame focused on spawning waves of rats to steal a cheeseball from your opponent's rats</li>
+    <li>Reworking the balance of a pirate ship battle level to account for the addition of a new party member</li>
 </ul>
 </div>
