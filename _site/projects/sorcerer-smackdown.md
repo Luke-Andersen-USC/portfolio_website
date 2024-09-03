@@ -8,7 +8,7 @@ role: Gameplay Programmer
 link:
 link-text:
 timeframe: January 2023 - April 2023
-date: 2024-01-02
+date: 2024-01-06
 ---
 <div class="textspace mt-8" style="font-size: smaller;">
     <p><strong>Project Team:</strong> <a href="https://openalphausc.weebly.com/" class="highlight underline hover:text-purple-800">Open Alpha</a></p>
