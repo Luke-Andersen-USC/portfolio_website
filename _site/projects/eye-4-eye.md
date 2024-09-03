@@ -2,7 +2,7 @@
 layout: project
 tags: projects
 title: Eye 4 Eye
-image: donuts.png
+image: eye4eyeScreen.png
 summary: Eye 4 Eye is a first-person puzzle game in the vein of Her Story where you play as Hazel, a grizzled detective from a cyberpunk future sent to explore a high-profile missing persons case. 
 role: Narrative Designer
 link:
