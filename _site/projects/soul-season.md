@@ -7,7 +7,7 @@ role: Co-director, Gameplay Programmer, Technical Game Designer, Narrative Desig
 link:
 link-text:
 timeframe: January 2024 - April 2024
-date: 2024-01-02
+date: 2024-01-04
 ---
 <div class="textspace mt-8" style="font-size: smaller;">
     <p><strong>Project Team:</strong> USC Intermediate Game Project</p>
