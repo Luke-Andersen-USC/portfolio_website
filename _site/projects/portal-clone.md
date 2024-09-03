@@ -30,6 +30,6 @@ date: 2024-01-02
     <li>Programming 3d movement and a first-person perspective using quaternion math</li>
     <li>Creating portal teleportation that preserved momentum and character rotation (relative to the point of entry)</li>
     <li>Creating various gameplay objects (doors/cubes/energy balls) to use in puzzles</li>
-    <li>Creating an audio manager to play sound effects and voice lines when the player encountered certain triggers</li>
+    <li>Creating an audio manager to play sound effects (with falloff distance) and voice lines upon object proximity or trigger activation</li>
 </ul>
 </div>
