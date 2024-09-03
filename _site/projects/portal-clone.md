@@ -8,7 +8,7 @@ role: Gameplay Programmer
 link:
 link-text:
 timeframe: November 2024 - December 2024
-date: 2024-01-02
+date: 2024-01-07
 ---
 <div class="textspace mt-8" style="font-size: smaller;">
     <p><strong>Project Team:</strong> None</p>
