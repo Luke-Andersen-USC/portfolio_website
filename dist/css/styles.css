@@ -480,11 +480,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin: 0.75rem;
 }
 
-.my-8 {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-}
-
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -495,8 +490,9 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-right: 0.25rem;
 }
 
-.mb-4 {
-  margin-bottom: 1rem;
+.my-8 {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
 .mb-12 {
@@ -521,6 +517,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .mb-10 {
   margin-bottom: 2.5rem;
+}
+
+.mb-4 {
+  margin-bottom: 1rem;
 }
 
 .mb-1 {
@@ -714,16 +714,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   text-align: center;
 }
 
-.text-4xl {
-  font-size: 2.25rem;
-  line-height: 2.5rem;
-}
-
-.text-lg {
-  font-size: 1.125rem;
-  line-height: 1.75rem;
-}
-
 .text-sm {
   font-size: 0.875rem;
   line-height: 1.25rem;
@@ -734,9 +724,19 @@ Ensure the default browser behavior of the `hidden` attribute.
   line-height: 1.75rem;
 }
 
+.text-4xl {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+}
+
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
+}
+
+.text-lg {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
 }
 
 .text-base {
@@ -744,17 +744,12 @@ Ensure the default browser behavior of the `hidden` attribute.
   line-height: 1.5rem;
 }
 
-.font-black {
-  font-weight: 900;
-}
-
 .font-bold {
   font-weight: 700;
 }
 
-.text-orange-600 {
-  --tw-text-opacity: 1;
-  color: rgb(234 88 12 / var(--tw-text-opacity));
+.font-black {
+  font-weight: 900;
 }
 
 .text-slate-800 {
@@ -762,9 +757,9 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: rgb(30 41 59 / var(--tw-text-opacity));
 }
 
-.text-green-600 {
+.text-orange-400 {
   --tw-text-opacity: 1;
-  color: rgb(22 163 74 / var(--tw-text-opacity));
+  color: rgb(251 146 60 / var(--tw-text-opacity));
 }
 
 .text-gray-500 {
@@ -777,9 +772,9 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: rgb(148 163 184 / var(--tw-text-opacity));
 }
 
-.text-orange-400 {
+.text-orange-600 {
   --tw-text-opacity: 1;
-  color: rgb(251 146 60 / var(--tw-text-opacity));
+  color: rgb(234 88 12 / var(--tw-text-opacity));
 }
 
 .underline {
