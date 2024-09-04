@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/jeremydaly/eleventy-tailwind-template/issues"
   },
-  "homepage": "https://github.com/jeremydaly/eleventy-tailwind-template#readme",
+  "homepage": "https://luke-andersen.netlify.app/",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.2",
     "autoprefixer": "^10.4.0",
