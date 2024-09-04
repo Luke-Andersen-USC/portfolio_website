@@ -32,7 +32,7 @@ order: 1
       <div class="bg-slate-50 rounded-2xl border border-gray-400 border-2 grid grid-cols-1 grid-rows-2 md:grid-rows-1 md:grid-cols-2 overflow-hidden">
         <div class="bg-no-repeat bg-center bg-cover" style="background-image: url('/images/{{ project.image }}');">
         </div>
-        <div class="bg-amber-400">
+        <div class="bg-blue-400">
           <div class="m-3 md:m-8 testspace">
             <h2 class="text-4xl font-bold text-slate-800 text-center">{{ project.title }}</h2>
             <p class="highlight font-bold text-center text-2xl md:mb-8">{{ project.role }}</p>
