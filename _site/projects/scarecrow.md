@@ -8,6 +8,7 @@ role: AI Engineer
 link:
 link-text:
 timeframe: June 2024 - Present
+featured: y
 date: 2024-01-02
 ---
 <div class="textspace mt-8" style="font-size: smaller;">
