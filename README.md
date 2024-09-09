@@ -1,3 +1,3 @@
-Created from open source work: [roosevelt.games](roosevelt.games)
+Created from an open source template: [roosevelt.games](roosevelt.games)
 
 Built with 11ty and Tailwind CSS
