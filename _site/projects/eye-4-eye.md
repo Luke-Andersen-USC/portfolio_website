@@ -33,6 +33,4 @@ date: 2024-01-10
     <li>Working closely with a member of the Game Design Team to ensure the tutorial both introduced the narrative and game mechanics seemlessly</li>
 </ul>
 
-<iframe width="600" height="400" src="https://www.youtube.com/watch?v=Za2Sljczsjo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 </div>
