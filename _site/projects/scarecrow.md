@@ -3,7 +3,7 @@ layout: project
 tags: projects
 title: Scarecrow
 image: ScarecrowScreenshot.png
-summary: Scarecrow is an upcoming third-person stealth game in which play as a scarecrow and protect your bird feeder from greedy squirrels!
+summary: An upcoming third-person stealth game in which play as a scarecrow and protect your bird feeder from greedy squirrels!
 role: AI Engineer
 link:
 link-text:
