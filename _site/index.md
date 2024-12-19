@@ -24,7 +24,7 @@ order: 1
     </p>
   </div>
 
-  <h1 class="title text-center sm:text-left">Featured Project</h1>
+  <h1 class="title text-center sm:text-left">Featured Projects</h1>
   {% for project in projects %}
   {% if project.featured %}
   <a href="/projects/{{ project.title | slugify }}">
