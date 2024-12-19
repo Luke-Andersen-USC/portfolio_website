@@ -2,7 +2,7 @@
 layout: project
 tags: projects
 title: Iron Testament
-image: iron-testament.png
+image: IronTestamentScreenshot.png
 imagelabel: Character concept by Eric Jimenez
 summary: An upcoming turn-based tactics game where you play as the last surviving member of the human race and lead a group of robot zealots in a crusade to avenge humanity. 
 role: Gameplay Programmer, Narrative Designer, Story
