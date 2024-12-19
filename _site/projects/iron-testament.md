@@ -9,6 +9,7 @@ role: Gameplay Programmer, Narrative Designer, Story
 link:
 link-text:
 timeframe: April 2024 - Present
+featured: n
 date: 2024-01-01
 ---
 <div class="textspace mt-8" style="font-size: smaller;">
